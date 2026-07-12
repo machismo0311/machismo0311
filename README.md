@@ -8,11 +8,11 @@
 
 A career operating and instructing in mission-critical military aviation — where checklists, root-cause analysis, and zero-defect execution are the job. I'm now applying that same discipline to **network and infrastructure engineering**, and documenting the work in the open.
 
-## 🔧 Featured — NETFRAME Homelab
+## 🔧 Featured Projects
 
-A production-grade, 7-node Proxmox VE cluster built as a live CCNA lab and infrastructure portfolio: VLAN-segmented networking on Juniper EX switching, OPNsense firewalling, HA DNS/DHCP, an RKE2 Kubernetes cluster, Ansible-driven configuration, full observability, and Proxmox Backup Server with an offsite tier — all documented with topology references, runbooks, and formal RCAs.
+**[NETFRAME Homelab](https://github.com/machismo0311/Home-Lab)** — a production-grade, 7-node Proxmox VE cluster built as a live CCNA lab and infrastructure portfolio: VLAN-segmented networking on Juniper EX switching, OPNsense firewalling, HA DNS/DHCP, an RKE2 Kubernetes cluster, Ansible-driven configuration, full observability, and Proxmox Backup Server with an offsite tier — documented with topology references, runbooks, and formal RCAs. Includes a **self-testing virtual network** (containerlab + FRR/OSPF) that validates real reachability in CI.
 
-**→ [github.com/machismo0311/Home-Lab](https://github.com/machismo0311/Home-Lab)**
+**[netframe-monitor](https://github.com/machismo0311/netframe-monitor)** — a read-only, cluster-wide health monitor: SSHes each node for diagnostics, has a local LLM interpret the results, and publishes a web report on a systemd timer.
 
 ## 🛠️ Focus Areas
 
