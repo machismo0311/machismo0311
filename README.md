@@ -24,8 +24,7 @@ A production-grade, 7-node Proxmox VE cluster built as a live CCNA lab and infra
 ## 🎓 Certifications & Education
 
 - **CCNA** — in progress
-- **VetTec 2.0** — veteran technical training
-- Evaluating an **M.S. in Information Systems**
+- Pursuing an **M.S. in Information Systems**
 
 ## ✈️ From the Flight Deck to the Network
 
