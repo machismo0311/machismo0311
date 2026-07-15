@@ -10,14 +10,14 @@ A career operating and instructing in mission-critical military aviation — whe
 
 ## 🔧 Featured Projects
 
-**[NETFRAME Homelab](https://github.com/machismo0311/Home-Lab)** — a production-grade, 7-node Proxmox VE cluster built as a live CCNA lab and infrastructure portfolio: VLAN-segmented networking on Juniper EX switching, OPNsense firewalling, HA DNS/DHCP, an RKE2 Kubernetes cluster, Ansible-driven configuration, full observability, and Proxmox Backup Server with an offsite tier — documented with topology references, runbooks, and formal RCAs. Includes a **self-testing virtual network** (containerlab + FRR/OSPF) that validates real reachability in CI.
+**[NETFRAME Homelab](https://github.com/machismo0311/Home-Lab)** — a production-grade, 7-node Proxmox VE cluster built as a live CCNA lab and infrastructure portfolio: VLAN-segmented networking on Juniper EX switching, OPNsense firewalling, HA DNS/DHCP, an RKE2 Kubernetes cluster, Ansible-driven configuration, full observability, and Proxmox Backup Server with a planned offsite tier — documented with topology references, runbooks, and formal RCAs. Includes a **self-testing virtual network** (containerlab + FRR/OSPF) that validates real reachability in CI.
 
 **[netframe-monitor](https://github.com/machismo0311/netframe-monitor)** — a read-only, cluster-wide health monitor: SSHes each node for diagnostics, has a local LLM interpret the results, and publishes a web report on a systemd timer.
 
 ## 🛠️ Focus Areas
 
 - **Networking:** VLAN design & segmentation, L2/L3 routing & switching (Juniper EX), OPNsense firewalling, DNS/DHCP high availability
-- **Infrastructure:** Proxmox VE clustering, RKE2 Kubernetes, ZFS, Proxmox Backup Server, offsite backup
+- **Infrastructure:** Proxmox VE clustering, RKE2 Kubernetes, ZFS, Proxmox Backup Server, encrypted config backups
 - **Automation / IaC:** Ansible, Bash, Python, Git, CI (GitHub Actions)
 - **Observability & Security:** Prometheus, Grafana, Loki, Wazuh SIEM, VLAN/firewall hardening
 
