@@ -1,12 +1,12 @@
 # Kyle Mason
 
-### USMC Aviator (EC-135/145 Instructor Pilot) → Network & Infrastructure Engineer
+### USMC Veteran - Aviator (EC-135/145 Instructor Pilot) → Network & Infrastructure Engineer
 
 📍 Greater Cleveland, OH  ·  🎯 CCNA in progress  ·  🌐 [kylemason.org](https://kylemason.org)  ·  💼 [LinkedIn](https://www.linkedin.com/in/kyle-m-468592bb/)
 
 ---
 
-A career operating and instructing in mission-critical military aviation — where checklists, root-cause analysis, and zero-defect execution are the job. I'm now applying that same discipline to **network and infrastructure engineering**, and documenting the work in the open.
+A career operating and instructing in mission-critical aviation — where checklists, root-cause analysis, and zero-defect execution are the job. I'm now applying that same discipline to **network and infrastructure engineering**, and documenting the work in the open.
 
 ## 🔧 Featured Projects
 
