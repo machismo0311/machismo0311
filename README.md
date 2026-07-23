@@ -14,6 +14,8 @@ A career operating and instructing in mission-critical aviation, where checklist
 
 **[netframe-monitor](https://github.com/machismo0311/netframe-monitor)** — a read-only, cluster-wide health monitor: SSHes each node for diagnostics, has a local LLM interpret the results, and publishes a web report on a systemd timer.
 
+**[netframe-dashboard](https://github.com/machismo0311/netframe-dashboard)**: a real-time NOC wall dashboard for the cluster. A dependency-free Python proxy aggregates Prometheus, cluster health, RKE2, Pi-hole, and OPNsense into a single always-on display.
+
 ## 🛠️ Focus Areas
 
 - **Networking:** VLAN design & segmentation, L2/L3 routing & switching (Juniper EX), OPNsense firewalling, DNS/DHCP high availability
